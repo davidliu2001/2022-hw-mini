@@ -1,5 +1,5 @@
 Hardware Mini Project
-David Liu    
+David Liu and Haobin Li 
 
 Screenshot of code change: 
 ![Screenshot 2022-09-20 171425](https://user-images.githubusercontent.com/74436905/191365841-334c7df4-8005-4cef-8820-c79523bcb2b8.png)
